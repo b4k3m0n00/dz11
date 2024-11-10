@@ -1,0 +1,8 @@
+﻿  1.cpp
+  2.cpp
+  3.cpp
+  4.cpp
+  main.cpp
+  Создание кода...
+main.obj : error LNK2005: _main уже определен в 1.obj
+C:\Users\Данил\source\repos\ifelse\Debug\ifelse.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
